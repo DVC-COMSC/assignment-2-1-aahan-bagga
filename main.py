@@ -7,7 +7,7 @@ def main():
     print(f"Total students: {m+f}")
     print(f"Number males: {m}")
     print(f"Number females: {f}")
-    print(f'Percentage of males and females: {m_perc}% {f_perc}%')
+    print(f'Percentage of males and females: {m_perc:.2f} {f_perc:.2f}')
     """
 
     ##################################################
